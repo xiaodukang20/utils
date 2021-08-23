@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Xiaodukang20\\Utils\\": "src/",
+      "Xiaodukang20\\Utils\\": "src/"
     }
   }
 }
